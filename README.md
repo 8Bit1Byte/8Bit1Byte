@@ -21,9 +21,9 @@
 
 
 <br />
+<b>🤩 Fav Programming Language and Packages</b>
 <br />
 
-<b>🤩 Fav Programming Language and Packages</b>
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
 <img align="left" alt="Machine Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
 <img align="left" alt="Deep Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
