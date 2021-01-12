@@ -14,11 +14,23 @@
 
 </p>
 
-- 💻 I’m currently currently learning everything and working on projects
+- 💻 I’m currently learning everything and working on projects
 - 👓 I’m specificaly working on Advance ML for virtullization of "Brain Thinking"
-- 🤝 I love to collaborate on ML project
-- 💬 Ask me about Programing concepts 
+- 🤝 I love to collaborate on ML project and work in Team
 - ⚡ Fun fact: Coding builds, logical mind. So start learning how to code 😜
+
+
+<br />
+<br />
+### Languages and Tools:
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript_logo.png" />
+<img align="left" alt="Yml" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/yml_logo.png" />
+
+<br />
+<br />
+
+---
 
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
