@@ -2,7 +2,7 @@
 <p align='center'>I'm a Student and Developer!!. I am actively looking for opportunities to improve my growth in the field.</p>
 
 <p align='center'>
-<!-- <a href="#">
+<a href="#">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:exploorex@gmail.com">
@@ -10,9 +10,8 @@
 </a>&nbsp;&nbsp;
 <a href="#">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp; -->
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+</a>&nbsp;&nbsp;
+
 </p>
 
 - 💻 I’m currently learning everything and working on projects
