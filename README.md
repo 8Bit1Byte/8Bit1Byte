@@ -23,7 +23,7 @@
 <br />
 <br />
 ### Languages and Tools:
-
+<br />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
 <img align="left" alt="Machine Learning" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
 <img align="left" alt="Deep Learning" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
