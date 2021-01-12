@@ -5,7 +5,7 @@
 <a href="https://twitter.com/woinbo">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:ankit.sagar.me@gmail.com">
+<a href="mailto:exploorex@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/woinbo/">
@@ -22,21 +22,20 @@
 
 <br />
 <br />
-### Languages and Tools:
-<br />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
-<img align="left" alt="Machine Learning" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
-<img align="left" alt="Deep Learning" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
-<img align="left" alt="Artifical Intelligence" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ai.png" />
-<img align="left" alt="Data Analysis" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/da.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/android.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dart.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/flutter.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/html.png" />
-<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
-<br />
+
+<b>🤩 Fav Programming Language and Packages</b>
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
+<img align="left" alt="Machine Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
+<img align="left" alt="Deep Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
+<img align="left" alt="Artifical Intelligence" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ai.png" />
+<img align="left" alt="Data Analysis" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/da.png" />
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
+<img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/android.png" />
+<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dart.png" />
+<img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/flutter.png" />
+<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/html.png" />
+<img align="left" alt="Css" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
 <br />
 
 ---
@@ -45,6 +44,6 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=woinbo&show_icons=true&theme=tokyonight&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=woinbo&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=8Bit1Byte&show_icons=true&theme=tokyonight&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8Bit1Byte&hide=css,java,html&theme=tokyonight">
 </p>
