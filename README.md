@@ -24,9 +24,18 @@
 <br />
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript_logo.png" />
-<img align="left" alt="Yml" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/yml_logo.png" />
-
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ai.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ds.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/android.png" />
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dart.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/flutter.png" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/html.png" />
+<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
 <br />
 <br />
 
