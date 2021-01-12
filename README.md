@@ -36,8 +36,7 @@
 <img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/html.png" />
 <img align="left" alt="Css" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/css.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
-<br />
-<br />
+
 ---
 
 
