@@ -25,16 +25,10 @@
 <br />
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
-//<img align="left" alt="Machine Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
-//<img align="left" alt="Deep Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
-//<img align="left" alt="Artifical Intelligence" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ai.png" />
-//<img align="left" alt="Data Analysis" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/da.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
 <img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/android.png" />
 <img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dart.png" />
 <img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/flutter.png" />
-<img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/html.png" />
-<img align="left" alt="Css" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/css.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
 <br />
 
