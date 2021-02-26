@@ -18,10 +18,8 @@
 - 👓 I’m specificaly working on Advance ML for virtullization of "Brain Thinking"
 - 🤝 I love to collaborate on ML project and work in Team
 - ⚡ Fun fact: Coding builds, logical mind. So start learning how to code 😜
-- 🤩 Fav Programming Language and Packages
 
 
-<br />
 - 🤩 Fav Programming Language and Packages
 <br />
 
