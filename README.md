@@ -32,7 +32,7 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
 <br />
 
----
+
 
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
