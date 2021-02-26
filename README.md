@@ -21,7 +21,7 @@
 
 <br/>
 - 🤩 Fav Programming Language and Packages
----
+<br/>
 
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
