@@ -20,7 +20,7 @@
 - ⚡ Fun fact: Coding builds, logical mind. So start learning how to code 😜
 
 <br/>
-- 🤩 Fav Programming Language and Packages
+Fav Programming Language and Packages
 <br/>
 <br/>
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
@@ -33,7 +33,7 @@
 
 
 
-
+<br>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
