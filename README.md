@@ -1,4 +1,4 @@
-<H1 align='center'>Hi 👋 I am ExplooreX!</H1>
+<H1 align='center'>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am ExplooreX!</H1>
 <p align='center'>I'm a Student and Developer!!. I am actively looking for opportunities to improve my growth in the field.</p>
 
 <p align='center'>
@@ -25,10 +25,10 @@
 <br />
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
-<img align="left" alt="Machine Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
-<img align="left" alt="Deep Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
-<img align="left" alt="Artifical Intelligence" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ai.png" />
-<img align="left" alt="Data Analysis" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/da.png" />
+//<img align="left" alt="Machine Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ml.png" />
+//<img align="left" alt="Deep Learning" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dl.png" />
+//<img align="left" alt="Artifical Intelligence" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/ai.png" />
+//<img align="left" alt="Data Analysis" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/da.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
 <img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/android.png" />
 <img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dart.png" />
