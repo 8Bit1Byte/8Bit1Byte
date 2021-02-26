@@ -20,18 +20,8 @@
 - ⚡ Fun fact: Coding builds, logical mind. So start learning how to code 😜
 
 
-<br>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=8Bit1Byte&show_icons=true&theme=tokyonight&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8Bit1Byte&hide=dart,html,css&theme=tokyonight">
-</p>
+####😛 Fav Programming Language and Packages </b>
 
-<br/>
-<b>😛 Fav Programming Language and Packages </b>
-<br/>
-<br/>
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
 <img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/android.png" />
@@ -39,3 +29,11 @@
 <img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/flutter.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
 <br />
+
+<br>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=8Bit1Byte&show_icons=true&theme=tokyonight&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8Bit1Byte&hide=dart,html,css&theme=tokyonight">
+</p>
