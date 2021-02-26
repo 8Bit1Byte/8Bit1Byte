@@ -24,8 +24,8 @@
 <b>🤩 Fav Programming Language and Packages</b>
 <br />
 
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/java.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/python.png" />
 <img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/android.png" />
 <img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dart.png" />
 <img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/flutter.png" />
