@@ -28,7 +28,6 @@
 <img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/dart.png" />
 <img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/flutter.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/8Bit1Byte/8Bit1Byte/master/Images/javascript.png" />
-<a href="https://stackexchange.com/users/20271696/exploore-x"><img src="https://stackexchange.com/users/flair/20271696.png" width="208" height="58" alt="profile for Exploore X on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Exploore X on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 <br>
 <br>
