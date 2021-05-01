@@ -14,8 +14,8 @@
 
 </p>
 
-- 💻 I’m currently learning everything and working on projects
-- 👓 I’m specificaly working on Advance ML for virtullization of "Brain Thinking"
+- 💻 I’m currently learning everything releated to Deep Neural Network and working on projects
+- 👓 I’m specificaly working on Advance ML for virtullization of "How Brain Thinks???"
 - 🤝 I love to collaborate on ML project and work in Team
 - ⚡ Fun fact: Coding builds, logical mind. So start learning how to code 😜
 
