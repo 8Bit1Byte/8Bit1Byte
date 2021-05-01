@@ -11,7 +11,9 @@
 <a href="https://www.linkedin.com/in/davinder-singh-039829210/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-
+<a href="https://stackoverflow.com/users/14867730/exploore-x/">
+  <img src="https://img.shields.io/badge/stackoverflow-yellow?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>&nbsp;&nbsp;
 </p>
 
 - 💻 I’m currently learning everything releated to Deep Neural Network and working on projects
