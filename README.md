@@ -1,4 +1,4 @@
-<H1 align='center'>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Davinder!</H1>
+<H1 align='center'>Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Davinder!</H1>
 <p align='center'>I'm a Student and Developer!!. I am actively looking for opportunities to improve my growth in the field.</p>
 
 <p align='center'>
