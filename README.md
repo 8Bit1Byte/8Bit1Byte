@@ -36,6 +36,7 @@
 <br>
 <br>
  <summary> 😇 <b>My Github Stats</b>: </summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8Bit1Byte&theme=tokyonight" alt="8Bit1Byte" /></a> </p>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=8Bit1Byte&show_icons=true&theme=tokyonight&line_height=33">
